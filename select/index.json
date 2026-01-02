@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "WHITE REFLECTION",
+  "base_artist": "TWO-MIX",
+  "createdAt": "2026-01-02T12:35:39.567018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Reflection (From Gundam Wing Endless Waltz) [Parapara Dance Version]",
+      "artist": "I Love You! Project",
+      "has_synced": false,
+      "path": "select/01_White_Reflection_(From_Gundam_Wing_Endless_Waltz)_[Parapara_Dance_Version]_I_Love_You!_Project.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WHITE REFLECTION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/02_WHITE_REFLECTION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Reflection",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/03_White_Reflection_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "white reflection",
+      "artist": "twomix",
+      "has_synced": false,
+      "path": "select/04_white_reflection_twomix.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Reflection (From ''New Mobile Report Gundam Wing: Endless Waltz'' ED)",
+      "artist": "Manami Nishida",
+      "has_synced": true,
+      "path": "select/05_White_Reflection_(From_''New_Mobile_Report_Gundam_Wing__Endless_Waltz''_ED)_Manami_Nishida.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "white_reflection",
+      "artist": "Tawwri",
+      "has_synced": true,
+      "path": "select/06_white_reflection_Tawwri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WHITE REFLECTION",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/07_WHITE_REFLECTION_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WHITE REFLECTION 25th anniversary edition",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/08_WHITE_REFLECTION_25th_anniversary_edition_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White Reflection",
+      "artist": "Anime Project",
+      "has_synced": false,
+      "path": "select/09_White_Reflection_Anime_Project.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHITE REFLECTION",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_01_WHITE_REFLECTION_TWO-MIX.txt"
+    }
+  ]
+}
